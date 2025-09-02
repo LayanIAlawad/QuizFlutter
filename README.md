@@ -1,20 +1,7 @@
-<<<<<<< HEAD
-# quiz
+# Flutter Quiz App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# QuizFlutter
->>>>>>> 34bb6b51ed095c79fe0d7c21117d0833fab6eb0b
+A simple quiz application built with Flutter as a learning project
+The app presents a set of multiple-choice questions about Flutter  
+After completing the quiz, a results page is shown where you can see:  
+- The total number of correct answers
+- Which answers were correct and incorrect  
